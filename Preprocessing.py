@@ -1,7 +1,7 @@
 import csv
 
-input_data = open('Data.csv', 'r')
-output_data = open('Mining.csv', 'w')
+input_data = open('C://Users//DELL//Desktop//Web-scrapping_Prediction-modeling-master//Data.csv', 'r')
+output_data = open('C://Users//DELL//Desktop//Web-scrapping_Prediction-modeling-master//Mining2.csv', 'w')
 
 Data = csv.reader(input_data, delimiter=',')
 
